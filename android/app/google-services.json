@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "215129541768",
+    "project_id": "chat-app-efa91",
+    "storage_bucket": "chat-app-efa91.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:215129541768:android:8a886db9ad65f4a660233d",
+        "android_client_info": {
+          "package_name": "com.hurata.chatApp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "215129541768-dn24uallsc13ud1de523rfod4krrb5ub.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.hurata.chatApp",
+            "certificate_hash": "00aeab3382ec7d0a40e52e4301d77ed765fe4bdb"
+          }
+        },
+        {
+          "client_id": "215129541768-dtsjskq82d8gbt9bntvif02l6jnd9686.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCoNmOSgHg3jaGlSATmJtH8bPFOEf8vxpM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "215129541768-dtsjskq82d8gbt9bntvif02l6jnd9686.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
